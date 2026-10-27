@@ -1,5 +1,5 @@
 # ftree
-a tree-like script to display file structure.
+a tree-like script to display file structures.
 
 ## usage
 ```sh
