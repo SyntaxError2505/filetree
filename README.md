@@ -4,10 +4,10 @@ a unix-tree-like script to display file structures.
 ## usage
 ```sh
 # print contents of current directory
-fprint
+ftree
 
 # print contents of a specific directory
-fprintf path/to/directory
+ftree path/to/directory
 ```
 
 ## build
