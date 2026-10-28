@@ -1,1 +1,7 @@
-ftree
+*
+
+!main.c
+!Makefile
+!.gitignore
+!LICENSE
+!README.md
